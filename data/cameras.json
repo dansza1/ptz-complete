@@ -1,0 +1,1150 @@
+{
+    "cameras": [
+        {
+            "presets": [
+                "angel",
+                "barn",
+                "barn2",
+                "barn2hay",
+                "barn2l",
+                "barn2r",
+                "barn2w",
+                "barn2z",
+                "barnfloor",
+                "brush",
+                "brushl",
+                "brushr",
+                "donksleep",
+                "down",
+                "downleft",
+                "dragonflytmp",
+                "farright",
+                "feeder",
+                "feederstatus",
+                "feedstall",
+                "fencel",
+                "gate",
+                "ground",
+                "groundr",
+                "grove",
+                "grove2",
+                "grove2l",
+                "grove2r",
+                "grove3",
+                "grove3l",
+                "grovefl",
+                "grovel",
+                "grover",
+                "haystack",
+                "home",
+                "insidebarn",
+                "insidebarnz",
+                "middle",
+                "pedrocorner",
+                "pen",
+                "penb",
+                "penl",
+                "penr",
+                "pole",
+                "pool",
+                "pooll",
+                "poolpr",
+                "poolr",
+                "purplebase",
+                "purplebasel",
+                "purplebaser",
+                "purplenest",
+                "right",
+                "saltlick",
+                "sky",
+                "stompyfood",
+                "sunrise",
+                "water",
+                "winniebush"
+            ],
+            "name": "Pasture"
+        },
+        {
+            "presets": [
+                "abovedoor",
+                "abovewindow",
+                "acs",
+                "awning",
+                "bowll",
+                "bowlm",
+                "bowlr",
+                "door",
+                "down",
+                "floorr",
+                "home",
+                "inside",
+                "insidel",
+                "insidet",
+                "left",
+                "leftb",
+                "leftback",
+                "leftcorner",
+                "leftcornerb",
+                "macawdoor",
+                "macawsinside",
+                "miasleep",
+                "right",
+                "tmp",
+                "water",
+                "waterl",
+                "window",
+                "winl",
+                "wint"
+            ],
+            "name": "Parrot"
+        },
+        {
+            "presets": [
+                "bowld",
+                "bowlr",
+                "closebranches",
+                "door",
+                "doorz",
+                "downleft",
+                "home",
+                "leftpole",
+                "perchbr",
+                "postmb",
+                "postmbb",
+                "postmt",
+                "right",
+                "table",
+                "water",
+                "window",
+                "windowz",
+                "winl",
+                "winr"
+            ],
+            "name": "Macaws"
+        },
+        {
+            "presets": [
+                "backleftcorner",
+                "backrightcorner",
+                "bed",
+                "belowleftplatform",
+                "belowleftplatformr",
+                "den1",
+                "den1b",
+                "den1r",
+                "den1rampb",
+                "den1t",
+                "den1temp",
+                "den1tr",
+                "den1w",
+                "den2",
+                "den2b",
+                "den2t",
+                "den2tr",
+                "den3temp",
+                "dirtpile",
+                "doorleft",
+                "doorright",
+                "down",
+                "downleft",
+                "downright",
+                "farcorner",
+                "farcornerz",
+                "farfencel",
+                "farfencelz",
+                "fenntmp",
+                "fenntree",
+                "home",
+                "left",
+                "leftplatform",
+                "leftplatformb",
+                "leftplatformtl",
+                "middleplatform",
+                "middleplatformb",
+                "nearleft",
+                "reednaptmp",
+                "right",
+                "rightcorner",
+                "rightplatform",
+                "rightplatformb",
+                "rightramp",
+                "river",
+                "riverl",
+                "rivert",
+                "stump",
+                "table",
+                "timbertree"
+            ],
+            "name": "Fox"
+        },
+        {
+            "presets": [
+                "akelafood",
+                "awatemp",
+                "backleftcorner",
+                "belowplatform",
+                "bigrocks",
+                "center",
+                "den1",
+                "den1feed",
+                "den1inside",
+                "den1l",
+                "den1r",
+                "den1t",
+                "den1tr",
+                "den1tree",
+                "den1tz",
+                "den2",
+                "den2b",
+                "den2gap",
+                "den2l",
+                "den2m",
+                "den2mz",
+                "den2r",
+                "den2rw",
+                "den2t",
+                "den2w",
+                "den3",
+                "down",
+                "downright",
+                "farcorner",
+                "farfence",
+                "grass",
+                "grassl",
+                "grassr",
+                "home",
+                "insidedoor",
+                "left",
+                "leftcorner",
+                "log",
+                "neargrass",
+                "neargrassr",
+                "pond",
+                "pump",
+                "right",
+                "rightfence",
+                "river",
+                "shaft",
+                "shaftr",
+                "switchden",
+                "switchgatel",
+                "switchgater",
+                "switchpen",
+                "switchpenl",
+                "switchpenr",
+                "switchramp",
+                "tip",
+                "tipt",
+                "trees",
+                "waterfall",
+                "wolfcornercam"
+            ],
+            "name": "Wolf"
+        },
+        {
+            "presets": [
+                "awasleeptmp",
+                "back",
+                "backfence",
+                "belowplatform",
+                "belowplatforml",
+                "belowplatformr",
+                "belowrampl",
+                "belowramplz",
+                "belowrampr",
+                "brushl",
+                "center",
+                "den1",
+                "den2",
+                "den2b",
+                "den2door",
+                "den2entrance",
+                "den2inside",
+                "den2insidet",
+                "den2l",
+                "den2m",
+                "den2r",
+                "den2shade",
+                "den2shadeb",
+                "den2shadel",
+                "den2t",
+                "down",
+                "downleft",
+                "downright",
+                "fo",
+                "foodtmp",
+                "grass",
+                "grassl",
+                "grassr",
+                "home",
+                "left",
+                "leftcorner",
+                "leftcornerw",
+                "leftfence",
+                "leftw",
+                "log",
+                "nearcorner",
+                "rampl",
+                "rampr",
+                "right",
+                "rightcorner",
+                "rightfence",
+                "river",
+                "switchpen",
+                "tmp",
+                "trees",
+                "treesl",
+                "water",
+                "wolfcam"
+            ],
+            "name": "WolfCorner"
+        },
+        {
+            "presets": [
+                "fargate",
+                "food",
+                "home",
+                "left",
+                "leftcorner",
+                "leftgate",
+                "maingate",
+                "pedro",
+                "pond",
+                "pondleft",
+                "right",
+                "rightcorner",
+                "shelter",
+                "trees"
+            ],
+            "name": "Emu"
+        },
+        {
+            "presets": [
+                "appastick",
+                "basket",
+                "blueball",
+                "bridgeb",
+                "bridgem",
+                "brownball",
+                "brownballtop",
+                "domell",
+                "domellb",
+                "domellshelf",
+                "domellt",
+                "domelu",
+                "domelushelfl",
+                "domelut",
+                "domer",
+                "domerl",
+                "domerr",
+                "door",
+                "down",
+                "downleft",
+                "downright",
+                "downrightbranch",
+                "farcornerb",
+                "farcornershelf",
+                "farcornert",
+                "farrightshelf",
+                "farrightshelfb",
+                "flapl",
+                "flapr",
+                "flaps",
+                "flapsb",
+                "ground",
+                "home",
+                "hose",
+                "left",
+                "leftcornershelf",
+                "lefthammock",
+                "leftpostbranch",
+                "leftpostshelf",
+                "leftpostshelfb",
+                "leftposttop",
+                "leftshelfl",
+                "leftshelfr",
+                "nearleftshelf",
+                "nearlefttop",
+                "nearrightshelves",
+                "redball",
+                "right",
+                "rightcorner",
+                "rightpost",
+                "table",
+                "tableropes",
+                "tablet",
+                "upleft",
+                "upleftbranch",
+                "upright",
+                "uprightbranches"
+            ],
+            "name": "MarmOut"
+        },
+        {
+            "presets": [
+                "ball",
+                "below",
+                "belowtrainingplatform",
+                "closecorner",
+                "closegrass",
+                "down",
+                "downleft",
+                "downright",
+                "home",
+                "left",
+                "leftfar",
+                "leftplatformz",
+                "middleplatforms",
+                "nearplatform",
+                "pond",
+                "right",
+                "scratchpost",
+                "trainingplatform",
+                "vestibule"
+            ],
+            "name": "Serval"
+        },
+        {
+            "presets": [
+                "backcorner",
+                "bench",
+                "cache",
+                "corner",
+                "cornerc",
+                "down",
+                "entry",
+                "escape",
+                "ground",
+                "groundl",
+                "groundr",
+                "home",
+                "inside",
+                "insideperch",
+                "insidewater",
+                "left",
+                "platform",
+                "platforminside",
+                "right",
+                "stick",
+                "stickl",
+                "stickz",
+                "table",
+                "temp",
+                "training",
+                "tree",
+                "treeb",
+                "treebase",
+                "treet",
+                "water"
+            ],
+            "name": "CrowOut"
+        },
+        {
+            "presets": [
+                "back",
+                "backcorner",
+                "backcornerr",
+                "backleftcorner",
+                "crowsleep",
+                "down",
+                "down2",
+                "entry",
+                "heater",
+                "home",
+                "hose",
+                "outside",
+                "platform",
+                "rightperch",
+                "table",
+                "top",
+                "topl",
+                "topr",
+                "training",
+                "water",
+                "window",
+                "windowc"
+            ],
+            "name": "CrowIn"
+        },
+        {
+            "presets": [
+                "barn1r",
+                "barn2",
+                "bughotel",
+                "bughotel2",
+                "butterflyplant",
+                "gate",
+                "haybagtmp",
+                "hbtemp",
+                "home",
+                "hummingbirdtreetmp",
+                "milkweed",
+                "milkweedtop",
+                "pasturebrush",
+                "pasturefarright",
+                "pasturegrove",
+                "pastureleft",
+                "pasturepole",
+                "pastureright",
+                "pasturewater",
+                "poolright",
+                "roundpen",
+                "sunrise",
+                "sunriser",
+                "tccenter",
+                "tcleft",
+                "tcright",
+                "tmp1",
+                "tmp2",
+                "tmp3",
+                "tmp4",
+                "tmp5",
+                "tmp6",
+                "water"
+            ],
+            "name": "Garden"
+        },
+        {
+            "presets": [
+                "backrightcorner",
+                "bigbushytree",
+                "bigbushytreer",
+                "bugtmp",
+                "down",
+                "downleft",
+                "downright",
+                "dragonfly2tmp",
+                "grove",
+                "grove2",
+                "grove2l",
+                "grove2r",
+                "grovel",
+                "grover",
+                "home",
+                "left",
+                "owlbox",
+                "purplebasel",
+                "purplenest",
+                "right",
+                "rightcorner",
+                "saltlicktmp",
+                "sunset",
+                "upperpasture"
+            ],
+            "name": "PastureLower"
+        },
+        {
+            "presets": [
+                "abovedoor",
+                "bedtemp",
+                "behind",
+                "domel",
+                "domell",
+                "domelr",
+                "domelshelf",
+                "domelt",
+                "domer",
+                "domerl",
+                "domerr",
+                "domert",
+                "downleft",
+                "flapl",
+                "flapr",
+                "flaps",
+                "floor",
+                "floorbranch",
+                "hammock",
+                "home",
+                "left",
+                "leftcornerb",
+                "leftcornert",
+                "nearrightshelf",
+                "right",
+                "table",
+                "tablel",
+                "win1",
+                "win2",
+                "win3",
+                "win4"
+            ],
+            "name": "MarmIn"
+        },
+        {
+            "presets": [
+                "back",
+                "den",
+                "denl",
+                "denr",
+                "dentop",
+                "denz",
+                "down",
+                "downleft",
+                "downright",
+                "farleft",
+                "farright",
+                "home",
+                "insidedoor",
+                "left",
+                "leftcorner",
+                "middle",
+                "middleleft",
+                "middleright",
+                "nearleft",
+                "nearright",
+                "pond",
+                "switchgate"
+            ],
+            "name": "WolfSwitch"
+        },
+        {
+            "presets": [
+                "center",
+                "doors",
+                "down",
+                "downleft",
+                "downright",
+                "fencel",
+                "fencer",
+                "home",
+                "left",
+                "leftcorner",
+                "neardoor",
+                "platformcenter",
+                "platformleft",
+                "platformleftb",
+                "platformlefttop",
+                "platformright",
+                "platformrightb",
+                "right",
+                "staffdoor",
+                "water"
+            ],
+            "name": "WolfIndoor"
+        },
+        {
+            "presets": [
+                "home",
+                "leftcorner",
+                "rightcorner"
+            ],
+            "name": "WolfDen"
+        },
+        {
+            "presets": [
+                "bottomright",
+                "home",
+                "left",
+                "leftcorner",
+                "rightcorner",
+                "tmp"
+            ],
+            "name": "WolfDen2"
+        },
+        {
+            "presets": [
+                "buildingleft",
+                "closecorner",
+                "doornap",
+                "down",
+                "downleft",
+                "downright",
+                "farleftcorner",
+                "fenceright",
+                "glasswall",
+                "home",
+                "left",
+                "leftmiddle",
+                "pond",
+                "right",
+                "temp",
+                "trainingplatform"
+            ],
+            "name": "ServalCorner"
+        },
+        {
+            "presets": [
+                "crate",
+                "cratetop",
+                "cubby",
+                "cubbyt",
+                "doortmp",
+                "down",
+                "floorr",
+                "home",
+                "left",
+                "leftcorner",
+                "leftdoor",
+                "leftplatform",
+                "leftplatformb",
+                "middle",
+                "pit1",
+                "pit2",
+                "pit3",
+                "topleft",
+                "windowl",
+                "windowr"
+            ],
+            "name": "ServalIndoor"
+        },
+        {
+            "presets": [
+                "backcenter",
+                "backlb",
+                "backleft",
+                "backright",
+                "barrels",
+                "center",
+                "down",
+                "downleft",
+                "downright",
+                "feeder",
+                "food",
+                "home",
+                "left",
+                "leftrock",
+                "nuggethide",
+                "nuggetsleep",
+                "oliversleep",
+                "ramp",
+                "right",
+                "rightcorner",
+                "water",
+                "window"
+            ],
+            "name": "Chicken"
+        },
+        {
+            "presets": [
+                "down",
+                "downl",
+                "downmiddle",
+                "downr",
+                "entryl",
+                "entryr",
+                "home",
+                "humandoor",
+                "nestboxes",
+                "perches",
+                "perchl",
+                "perchr",
+                "right"
+            ],
+            "name": "ChickenIndoor"
+        },
+        {
+            "presets": [
+                "center",
+                "centerr",
+                "down",
+                "downleft",
+                "downright",
+                "farcorner",
+                "feeder",
+                "home",
+                "left",
+                "leftcorner",
+                "leftgrove",
+                "marmgate",
+                "mudpit",
+                "right",
+                "rightcorner",
+                "rightgrove",
+                "shelter",
+                "sleep",
+                "temp1",
+                "tmp"
+            ],
+            "name": "EmuCover"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "EmuPond"
+        },
+        {
+            "presets": [
+                "belowplatforml",
+                "downleft",
+                "downright",
+                "farcorner",
+                "home",
+                "insidedoor",
+                "left",
+                "middle",
+                "middler",
+                "platform",
+                "platformbl",
+                "platformbr",
+                "platformfl",
+                "platformfr",
+                "rampb",
+                "right",
+                "table"
+            ],
+            "name": "FoxCovered"
+        },
+        {
+            "presets": [
+                "bedl",
+                "bedr",
+                "cubby",
+                "cubbyz",
+                "den",
+                "home",
+                "leftcorner",
+                "leftdoor",
+                "leftplatform",
+                "ramp",
+                "rightdoor",
+                "rightplatform",
+                "window"
+            ],
+            "name": "FoxIndoor"
+        },
+        {
+            "presets": [
+                "cave",
+                "down",
+                "downl",
+                "downr",
+                "far",
+                "home",
+                "land",
+                "landz",
+                "shore"
+            ],
+            "name": "Georgie"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "GeorgieWater"
+        },
+        {
+            "presets": [
+                "down",
+                "downright",
+                "home",
+                "right"
+            ],
+            "name": "Marty"
+        },
+        {
+            "presets": [
+                "cave",
+                "down",
+                "downleft",
+                "home",
+                "leftcorner"
+            ],
+            "name": "BB"
+        },
+        {
+            "presets": [
+                "farshore",
+                "firelefttmp",
+                "firerighttmp",
+                "firetmp",
+                "home",
+                "owltmp",
+                "pond",
+                "sunset",
+                "sunset2",
+                "sunsetz",
+                "tmp"
+            ],
+            "name": "Nature"
+        },
+        {
+            "presets": [
+                "closebranch",
+                "closebranchr",
+                "down",
+                "farbranches",
+                "farrock",
+                "home",
+                "left",
+                "leftshelf",
+                "water"
+            ],
+            "name": "Noodle"
+        },
+        {
+            "presets": [
+                "down",
+                "feeder",
+                "home",
+                "stompy"
+            ],
+            "name": "PastureFeeder"
+        },
+        {
+            "presets": [
+                "cave",
+                "closebranches",
+                "down",
+                "farbranches",
+                "groundm",
+                "home",
+                "log",
+                "rightcorner",
+                "water"
+            ],
+            "name": "Patchy"
+        },
+        {
+            "presets": [
+                "brush",
+                "crunchwide",
+                "cubby",
+                "cubbyl",
+                "cubbyr",
+                "down",
+                "downcubby",
+                "downl",
+                "downr",
+                "farcenter",
+                "farfence",
+                "farleft",
+                "farright",
+                "home",
+                "hut",
+                "hutz",
+                "insidedoor",
+                "left",
+                "pondt",
+                "right",
+                "rightcorner",
+                "water"
+            ],
+            "name": "Pushpop"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "PushpopCrunch"
+        },
+        {
+            "presets": [
+                "down",
+                "downleft",
+                "downright",
+                "farcorner",
+                "farcornerz",
+                "home",
+                "left",
+                "leftcorner",
+                "right",
+                "rightcorner",
+                "rightcornerz"
+            ],
+            "name": "PushpopIndoor"
+        },
+        {
+            "presets": [
+                "down",
+                "food",
+                "home",
+                "left",
+                "right",
+                "stickl"
+            ],
+            "name": "Roaches"
+        },
+        {
+            "presets": [
+                "eva",
+                "home",
+                "kiwi"
+            ],
+            "name": "Tarantula"
+        },
+        {
+            "presets": [
+                "eva",
+                "evabottomleft",
+                "evabottomright",
+                "evatmp",
+                "evatopleft",
+                "evatopright",
+                "home",
+                "kiwi",
+                "kiwibottomleft",
+                "kiwibottomright",
+                "kiwitmp",
+                "kiwitopleft",
+                "kiwitopright",
+                "tmp"
+            ],
+            "name": "TarantulaPTZ"
+        },
+        {
+            "presets": [
+                "closerock",
+                "down",
+                "downright",
+                "far",
+                "food",
+                "home",
+                "log",
+                "logz",
+                "rocksandwich",
+                "rocksandwicht",
+                "toastsleep",
+                "tunnel",
+                "water"
+            ],
+            "name": "Toast"
+        },
+        {
+            "presets": [
+                "home",
+                "log",
+                "lurkk"
+            ],
+            "name": "ToastCrunch"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "Chin"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "Chin2"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "Chin3"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "ChinMulti"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "WolfDenMulti"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "WolfMulti"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "WolfWolfIn"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "ChickenMulti"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "CrowInCrowOut"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "CrowOutCrowIn"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "GeorgieMulti"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "MarmOutMarmIn"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "WolfCWolfIn"
+        },
+        {
+            "presets": [
+                "home"
+            ],
+            "name": "WolfDen2Multi"
+        },
+        {
+            "name": "foc",
+            "presets": [
+                "backleftcorner",
+                "backrightcorner",
+                "bed",
+                "belowleftplatform",
+                "belowleftplatformr",
+                "den1",
+                "den1b",
+                "den1r",
+                "den1rampb",
+                "den1t",
+                "den1temp",
+                "den1tr",
+                "den1w",
+                "den2",
+                "den2b",
+                "den2t",
+                "den2tr",
+                "den3temp",
+                "dirtpile",
+                "doorleft",
+                "doorright",
+                "down",
+                "downleft",
+                "downright",
+                "farcorner",
+                "farcornerz",
+                "farfencel",
+                "farfencelz",
+                "fenntmp",
+                "fenntree",
+                "home",
+                "left",
+                "leftplatform",
+                "leftplatformb",
+                "leftplatformtl",
+                "middleplatform",
+                "middleplatformb",
+                "nearleft",
+                "reednaptmp",
+                "right",
+                "rightcorner",
+                "rightplatform",
+                "rightplatformb",
+                "rightramp",
+                "river",
+                "riverl",
+                "rivert",
+                "stump",
+                "table",
+                "timbertree"
+            ]
+        }
+    ]
+}

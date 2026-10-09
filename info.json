@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Chatterino/chatterino2/master/docs/plugin-info.schema.json",
+  "name": "ptz_complete",
+  "description": "Context-aware Tab completion for PTZ commands: command names, then camera names, then presets for the chosen camera.",
+  "authors": [],
+  "license": "MIT",
+  "tags": [
+    "completion",
+    "ptz"
+  ],
+  "version": "0.1.0",
+  "permissions": [
+    {
+      "type": "FilesystemRead"
+    },
+    {
+      "type": "FilesystemWrite"
+    }
+  ]
+}
